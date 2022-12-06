@@ -4,6 +4,3 @@ let
 “Add Line”
 new branch line
 opa opa
-some some
-вапвап
-вввввв
